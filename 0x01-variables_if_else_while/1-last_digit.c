@@ -3,8 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - A program that check the last digit of the number
- * Return: 0 
+ * main - Entry point
+ * @void: Null value
+ *
+ * Description: Check the last digit of the number
+ * Return: Zero value to succesful
  */
 
 int main(void)
@@ -27,4 +30,3 @@ int main(void)
 	}
 	return (0);
 }
-

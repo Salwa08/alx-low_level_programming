@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * main - Print holberton word
@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	char message[] = "Holberton";
+	char message[] = "_putchar";
 	int count = 0;
 
 	while (message[count] != '\0')
